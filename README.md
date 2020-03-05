@@ -1,2 +1,15 @@
-# myUmiAppDemo
-A demo for Umi
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
